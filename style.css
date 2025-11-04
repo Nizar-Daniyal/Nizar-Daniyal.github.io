@@ -1,0 +1,20 @@
+ body {
+    background-color: aquamarine;
+     font-family: Arial;
+}
+
+.wrapper {
+    background-color: aqua;
+     width: 450px;
+     padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.avatar  {
+    width: 450px;
+    height: 450px;
+    border-radius: 100%;
+    object-fit: cover;
+}
